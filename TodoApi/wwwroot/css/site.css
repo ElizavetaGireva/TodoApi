@@ -1,0 +1,31 @@
+﻿input[type='submit'], button, [aria-label] {
+    cursor: pointer;
+}
+
+#editForm {
+    display: none;
+}
+
+table {
+    font-family: 'Times New Roman', sans-serif;
+    border: 2px solid;
+    border-collapse: collapse;
+    background-color: #c4b10e;
+    margin: auto
+}
+
+th {
+    background-color: #c4b10e;
+    padding: 8px;
+    margin: auto
+}
+
+td {
+    border: 2px solid;
+    padding: 8px;
+}
+
+body {
+    text-align: center;
+    background-color: #c4b10e;
+}
